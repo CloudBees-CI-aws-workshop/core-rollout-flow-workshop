@@ -39,7 +39,7 @@ class: compact
 
 * In the following lab you will create a Pipeline Policy that will require that all Pipeline jobs on your Team Master be configured with a 30 minute (or greater) global timeout.
 * The *Enforcing Pipeline Timeouts with Pipeline Policies* lab instructions are available at: 
-  * [http://localhost:1313/30_labs/4_pipeline_policies.html](http://localhost:1313/30_labs/4_pipeline_policies.html)
+  * [CLOUDBEES CI - PIPELINE POLICIES](http://localhost:1313/30_labs/4_pipeline_policies.html)
 
 
 ---
