@@ -34,7 +34,7 @@ name: core-setup-lab
 
 * Today's URL for the CloudBees Core Workshop cluster will be provided by your instructor.
 * The *Core Workshop Setup* lab instructions are available at: 
-  * [https://github.com/cloudbees-days/core-rollout-flow-workshop/blob/master/labs/workshop-setup/workshop-setup.md](https://github.com/cloudbees-days/core-rollout-flow-workshop/blob/master/labs/workshop-setup/workshop-setup.md)
+  * [CLOUDBEES CI WORKSHOP SET-UP](http://localhost:1313/30_labs/1_core_workshop_setup.html)
 
 ---
 name: core-setup-review
@@ -44,8 +44,8 @@ class: compact
 
 While your Team Master is restarting, let's explore the results of the **`core-workshop-setup`** Pipeline:
 
-.no-bullet[
-* In the GitHub Organization that you created for this workshop you will notice that you now have 5 repositories. The following repositories were [forked](https://guides.github.com/activities/forking/) from the [CloudBees Days GitHub Organization](https://github.com/cloudbees-days) by the `core-workshop-setup` job you just ran on your Team Master:
+.no-bullet
+* In the GitHub Organization that you created for this workshop you will notice that you now have 5 repositories. The following repositories were [forked](https://guides.github.com/activities/forking/) from the [CloudBees-CI-aws-workshop](https://github.com/CloudBees-CI-aws-workshop) by the `core-workshop-setup` job you just ran on your Team Master:
    1. **core-config-bundle** - this repository provides a base CasC configuration for everyones' Team Master.
    2. **pipeline-library** - a Jenkins Pipeline Shared Library that will be used by the Jenkins Pipelines you create during this workshop.
    3. **pipeline-template-catalog** - a set of templated Pipelines that you will use to create Jenkins Pipeline jobs for this workshop.
