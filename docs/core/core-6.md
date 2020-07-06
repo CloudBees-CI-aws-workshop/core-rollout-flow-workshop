@@ -50,7 +50,7 @@ There are several ways that costs may be reduced with Managed Master hibernation
 # Lab - Configuring Webhooks for Hibernating Masters
 
 * The *Configuring Webhooks for Hibernating Masters* lab instructions are available at: 
-  * [https://github.com/cloudbees-days/core-rollout-flow-workshop/blob/master/labs/hibernating-masters/hibernating-masters.md](https://github.com/cloudbees-days/core-rollout-flow-workshop/blob/master/labs/hibernating-masters/hibernating-masters.md)
+  * [CLOUDBEES CI - HIBERNATING MASTERS](http://localhost:1313/30_labs/6_hibernating_masters.html)
 
 ???
 
