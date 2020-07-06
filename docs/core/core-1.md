@@ -34,7 +34,7 @@ name: core-setup-lab
 
 * Today's URL for the CloudBees Core Workshop cluster will be provided by your instructor.
 * The *Core Workshop Setup* lab instructions are available at: 
-  * [CLOUDBEES CI WORKSHOP SET-UP](http://localhost:1313/30_labs/1_core_workshop_setup.html)
+  * [CLOUDBEES CI WORKSHOP SET-UP](https://cloudbees.awsworkshop.io/30_labs/1_core_workshop_setup.html)
 
 ---
 name: core-setup-review
