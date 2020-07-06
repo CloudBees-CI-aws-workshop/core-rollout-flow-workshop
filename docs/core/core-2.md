@@ -120,7 +120,7 @@ name: core-casc-lab-link
 
 * In the following lab we will setup a Jenkins Pipeline job - or more specifically, a [Pipeline Organization Folder](https://jenkins.io/doc/book/pipeline/multibranch/#organization-folders) - on your Team Master that will be triggered whenever you commit any approved changes to the **`master`** branch of your Core configuration bundle repository.
 * The *GitOps for Core CasC* lab instructions are available at: 
-  * [GITOPS FOR CLOUDBEES CI (CASC)](http://localhost:1313/30_labs/2_casc.html)
+  * [GITOPS FOR CLOUDBEES CI (CASC)](https://cloudbees.awsworkshop.io/30_labs/2_casc.html)
   
 ???
 
