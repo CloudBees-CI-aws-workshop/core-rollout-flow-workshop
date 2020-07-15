@@ -43,7 +43,7 @@ name: pipeline-template-catalog-lab-link
 
 * In this lab you will import a Pipeline Template Catalog from a repository that was forked in by the setup job and then create a job from one of the templates in that catalog.
 * The *Pipeline Template Catalog* lab instructions are available at: 
-  * [CLOUDBEES CI - PIPELINE TEMPLATE CATALOGS](https://cloudbees.awsworkshop.io/30_labs/3_pipeline_template_catalog.html)
+  * [CLOUDBEES CI - PIPELINE TEMPLATE CATALOGS](https://cloudbees.awsworkshop.io/01_labs/3_pipeline_template_catalog.html)
 
 ---
 name: pipeline-template-catalog-overview
