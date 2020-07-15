@@ -93,7 +93,7 @@ ARG NODE_IMAGE=node:lts-alpine
 ```
   * The **VueJS** template (and supporting Pipeline Shared Library) will be updated to override the `NODE_IMAGE` argument with a value from the payload of a published event.
 * The *Triggering Pipelines with Cross Team Collaboration* lab instructions are available at: 
-  * [CLOUDBEES CI - CROSS TEAM COLLABORATION](https://cloudbees.awsworkshop.io/30_labs/5_cross_team_collab.html)
+  * [CLOUDBEES CI - CROSS TEAM COLLABORATION](https://cloudbees.awsworkshop.io/01_labs/5_cross_team_collab.html)
 
 
 ---
