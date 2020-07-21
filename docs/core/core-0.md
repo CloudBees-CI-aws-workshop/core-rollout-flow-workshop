@@ -43,12 +43,6 @@ name: workshop-tools
 * Once in the labs please feel free to ask questions via audio or via the GoTo chat. You may also use the GoTo *Nonverbal* feedback feature to raise your hand or to ask you instructor to slow down or speed up.
 
 ---
-name: workshop-GoTo
-class: center
-
-![:scale 90%](img/zoom-tools.png)
-
----
 name: lab-environment
 # Lab Environment
 * This workshop uses a CloudBees CI cluster, an enterprise version of Jenkins, running on the AWS Kubernetes Service (EKS).
