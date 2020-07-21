@@ -32,7 +32,7 @@ Setup for this workshop will include:
 name: core-setup-lab
 # Lab - CI Workshop Setup
 
-* Today's URL for the CloudBees CI Workshop cluster will be provided by your instructor.
+* Today's URL for the CloudBees CI Workshop cluster - https://ci.aws.cbws.io/cjoc/
 * The *CI Workshop Setup* lab instructions are available at: 
   * [CLOUDBEES CI WORKSHOP SET-UP](https://cloudbees.awsworkshop.io/01_labs/1_core_workshop_setup.html)
 
