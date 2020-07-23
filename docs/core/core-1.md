@@ -34,7 +34,7 @@ name: core-setup-lab
 
 * Today's URL for the CloudBees CI Workshop cluster - https://ci.aws.cbws.io/cjoc/
 * The *CI Workshop Setup* lab instructions are available at: 
-  * [CLOUDBEES CI WORKSHOP SET-UP](https://cloudbees.awsworkshop.io/01_labs/1_core_workshop_setup.html)
+  * [CLOUDBEES CI WORKSHOP SET-UP](https://cloudbees.awsworkshop.io/01_jenkinsci/01_labs/1_core_workshop_setup.html)
 
 ---
 name: core-setup-review
