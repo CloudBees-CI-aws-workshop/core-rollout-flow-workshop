@@ -4,10 +4,10 @@ background-image: linear-gradient(135deg,#279be0,#036eb4)
 count: false
 
 
-# CloudBees Core Workshop
+# CloudBees CI Workshop
 .one-third-up[![:scale 10%](../img/Core-white.svg)]
 ???
-This workshop introduces attendees to the features for CloudBees Core.
+This workshop introduces attendees to the features for CloudBees CI.
 
 ---
 layout: true
